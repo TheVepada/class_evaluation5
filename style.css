@@ -1,9 +1,9 @@
 body{ 
     font-family: Schoolbell, cursive;
     margin: 0;
-    display: flex;
-    justify-content: space-evenly;
-}
+    padding: 0;
+
+  }
 .eagle-lake-regular {
   font-family: "Eagle Lake", serif;
   font-weight: 400;
@@ -14,7 +14,7 @@ body{
     
     width: 1000px;
     height: 600px;
- display: flex;
+    display: flex;
     justify-content: space-evenly;
     align-items: center;
     margin: auto;
@@ -22,13 +22,13 @@ body{
 }
 .wel{
     padding : 10px;
-    font-size: 2.5rem;
+    font-size: 2rem;
     color: #37474F;
     text-align: left; 
     margin-top: 5px;
     width: 400px;                   
     height: 300px;
-     font-family: Schoolbell, cursive;
+    font-family: Schoolbell, cursive;
 
 }
 .st{
@@ -63,7 +63,7 @@ body{
   overflow: hidden;
   position: absolute;
   right: 18%;
-  top: 35%;
+  top: 28%;
   border: 45px solid #4DB6AC
 ;
 }
@@ -79,10 +79,10 @@ body{
   width: 100px;
   height: 100px;
   border-radius: 50%;
- background-color: #BA68C8;
+  background-color: #BA68C8;
   position: absolute;
-  top: 8%;
-  right: 27%;
+  top: 7%;
+  right: 30%;
 }
 
 .cir3 {
@@ -91,8 +91,8 @@ body{
   border-radius: 50%;
 background-color: #81C784 ;
   position: absolute;
-  top: 14%;
-  right: 26%;
+  top: 16%;
+  right: 28%;
 }
 
 .last {
